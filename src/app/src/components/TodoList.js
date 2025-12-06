@@ -1,4 +1,3 @@
-// src/app/src/components/TodoList.js
 
 import React from "react";
 
