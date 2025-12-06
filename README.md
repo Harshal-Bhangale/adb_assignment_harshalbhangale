@@ -21,7 +21,7 @@ This project sets up a Docker environment with a React frontend, a Django backen
 
 ## 🏗 Home Page Diagram
 
-![Home Page Diagram](E:\Placement\Company\Adbrew\adb_test_harshalbhangale\adb_test_harshalbhangale\src\assets\todoScreenshot.png)
+![Home Page Diagram](./assets/todoScreenshot.png)
 
 
 ## Features ✨
