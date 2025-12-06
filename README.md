@@ -19,9 +19,9 @@ This project sets up a Docker environment with a React frontend, a Django backen
 8.  [Important Links](#important-links-%E2%9B%BA)
 9.  [Footer](#footer-%E2%9C%8D) -->
 
-## 🏗 System Architecture Diagram
+## 🏗 Home Page Diagram
 
-![System Architecture](src\assets\todoScreenshot.png)
+![Home Page Diagram](E:\Placement\Company\Adbrew\adb_test_harshalbhangale\adb_test_harshalbhangale\src\assets\todoScreenshot.png)
 
 
 ## Features ✨
