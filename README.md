@@ -158,7 +158,6 @@ Contributions are welcome! Please follow these steps:
 -   **Author**: Harshal-Bhangale
 -   **Email**: harshalbhangale90@gmail.com 
 
-⭐️ Like it? Fork it, give it a star, or report issues! ⭐️
 
 ---
 **<p align="center">[Harshal Bhangale | Software Developer](https://harshal-dev.vercel.app/)</p>**
