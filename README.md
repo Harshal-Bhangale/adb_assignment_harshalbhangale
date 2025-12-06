@@ -146,7 +146,6 @@ You can extend this project by adding features such as:
 -   `src/requirements.txt`: Lists the Python dependencies for the Django backend.
 
 
-
 ## Contributing 🤝
 Contributions are welcome! Please follow these steps:
 
@@ -156,22 +155,19 @@ Contributions are welcome! Please follow these steps:
 4.  Submit a pull request.
 
 
-
 ## License 📜
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. ✅
-
 
 
 ## Important Links 🔗
 -   **Repository**: [https://github.com/Harshal-Bhangale/adb_assignment_harshalbhangale](https://github.com/Harshal-Bhangale/adb_assignment_harshalbhangale) 🌐
 
 
-
 ## Footer 🏁
 -   **Repository Name**: adb_assignment_harshalbhangale
 -   **Repository URL**: [https://github.com/Harshal-Bhangale/adb_assignment_harshalbhangale](https://github.com/Harshal-Bhangale/adb_assignment_harshalbhangale)
 -   **Author**: Harshal-Bhangale
--   **Contact**: (No contact information was available in the provided files)
+-   **Email**: harshalbhangale90@gmail.com 
 
 ⭐️ Like it? Fork it, give it a star, or report issues! ⭐️
 
