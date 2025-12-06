@@ -1,4 +1,4 @@
-# Adbrew Test! 🧪
+# Adbrew Test!
 <!-- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) -->
 
 
@@ -39,7 +39,6 @@ This project sets up a Docker environment with a React frontend, a Django backen
 -   **Backend**: Python, Django 🐍
 -   **Database**: MongoDB 🍃
 -   **Containerization**: Docker 🐳
--   **Other**: YAML ⚙️
 
 
 
@@ -83,13 +82,11 @@ This project sets up a Docker environment with a React frontend, a Django backen
     -   Django API: `http://localhost:8000/todos`
 
 
-
 ## Usage 🕹️
 1.  **Access the React application** at `http://localhost:3000`. 🌐
 2.  **Use the form** to add a new TODO item. 📝
 3.  **Submit the form** to create a TODO in the MongoDB database. ✅
 4.  **The list of TODOs** will refresh and display the latest TODOs from the database. 🔄
-
 
 
 ### How to Use 💡
@@ -98,7 +95,6 @@ This project demonstrates a basic TODO application using a React frontend, a Dja
 *   **React Frontend**:  Provides the user interface.  It allows you to create and view TODO items.
 *   **Django Backend**: Serves as the API.  It receives requests from the frontend, interacts with the MongoDB database, and sends back responses.
 *   **MongoDB**: Stores the TODO data.
-
 
 
 
@@ -152,11 +148,6 @@ Contributions are welcome! Please follow these steps:
 3.  Make your changes and commit them with descriptive messages.
 4.  Submit a pull request.
 
-
-## License 📜
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. ✅
-
-
 ## Important Links 🔗
 -   **Repository**: [https://github.com/Harshal-Bhangale/adb_assignment_harshalbhangale](https://github.com/Harshal-Bhangale/adb_assignment_harshalbhangale) 🌐
 
@@ -168,7 +159,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 -   **Email**: harshalbhangale90@gmail.com 
 
 ⭐️ Like it? Fork it, give it a star, or report issues! ⭐️
-
 
 ---
 **<p align="center">[Harshal Bhangale | Software Developer](https://harshal-dev.vercel.app/)</p>**
