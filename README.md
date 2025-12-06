@@ -1,5 +1,5 @@
 # Adbrew Test! 🧪
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<!-- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) -->
 
 
 
@@ -8,8 +8,8 @@ This project sets up a Docker environment with a React frontend, a Django backen
 
 
 
-## Table of Contents 📚
-1.  [Features](#features-%EF%B8%8F)
+<!-- ## Table of Contents 📚 -->
+<!-- 1.  [Features](#features-%EF%B8%8F)
 2.  [Tech Stack](#tech-stack-%E2%9A%96%EF%B8%8F)
 3.  [Installation](#installation-%E2%9A%A1%EF%B8%8F)
 4.  [Usage](#usage-%E2%8F%B0)
@@ -17,8 +17,11 @@ This project sets up a Docker environment with a React frontend, a Django backen
 6.  [Contributing](#contributing-%F0%9F%A7%AA)
 7.  [License](#license-%F0%9F%93%9C)
 8.  [Important Links](#important-links-%E2%9B%BA)
-9.  [Footer](#footer-%E2%9C%8D)
+9.  [Footer](#footer-%E2%9C%8D) -->
 
+## 🏗 System Architecture Diagram
+
+![System Architecture](src\assets\todoScreenshot.png)
 
 
 ## Features ✨
@@ -96,11 +99,6 @@ This project demonstrates a basic TODO application using a React frontend, a Dja
 *   **Django Backend**: Serves as the API.  It receives requests from the frontend, interacts with the MongoDB database, and sends back responses.
 *   **MongoDB**: Stores the TODO data.
 
-You can extend this project by adding features such as:
-
-*   User authentication
-*   TODO item editing and deletion
-*   More advanced UI components
 
 
 
@@ -113,7 +111,7 @@ You can extend this project by adding features such as:
 ├── src
 │   ├── app
 │   │   ├── package.json
-│   │   ├── public
+│   │   ├── public 
 │   │   │   ├── index.html
 │   │   │   ├── manifest.json
 │   │   │   └── robots.txt
